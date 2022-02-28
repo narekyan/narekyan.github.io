@@ -11,7 +11,6 @@ I've been working remotely even before the pandemic. After the pandemic, it beca
 In this half-baked article, I want to share with you how I see and feel remote work, its advantages, and disadvantages from my view. This is going to be my reflection on my recent work experience.
 I live in Yerevan, some people say silicon valley of Caucasus. Don't believe them), just a town with its good vibe and weather. Ok, we have some startups with good people, professionals, and decent investments. No FAANG or FAANGoid company presence yet.
 
-
 So in general, I like working remotely. First of all, on an intuitive level,  you can feel the smell of freedom. I want to mention the 4 main practical day-to-day advantages of remote work and the dark sides of these advantages.
 First thing first, you work when you want. More concrete you can decide when to wake up, and of course, most probably you’ll wake up when you get your sleep fully, which is great. I am used to doing this in this way, some days I wake up at 9 am, some days around 12 pm. I based on what I have to do that day, decide to sleep more or less.
 Second, you have the freedom of scheduling your day, I would say you decide your agenda. When you can do your tasks, what tasks do first, what to keep for later. I can say I have a more authentic way of working. You don't have to go to the office where you are not always as productive as you want and you have to deal with redundant requirements. I work from home and sometimes choose coworking.
