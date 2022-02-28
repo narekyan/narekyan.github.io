@@ -4,7 +4,7 @@ title:  remote working
 date:   2022-02-28 22:21:16
 description: reflextion on remote work
 tags: remote work
-categories: posts
+categories: sample-posts
 ---
 Seems a new trend.
 I've been working remotely even before the pandemic. After the pandemic, it became mainstream, and for me, it's become second nature. Before pandemic this way of working was called freelance) but I was always using the wording remote. Even today there are people who say freelance). 
