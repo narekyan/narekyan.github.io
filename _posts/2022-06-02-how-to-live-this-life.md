@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  How to live this life
-date:   2022-06-02 19:18:16
+date:   2022-06-02 12:18:16
 description: my experience of practical approaches
 tags: about life
 categories: sample-posts
