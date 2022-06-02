@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  remote working
-date:   2022-05-04 22:21:16
+date:   2022-04-30 22:21:16
 description: reflextion on remote work
 tags: remote work
 categories: sample-posts
