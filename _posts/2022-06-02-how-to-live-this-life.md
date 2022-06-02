@@ -24,7 +24,13 @@ At some point, our brain will need and decide to find or create a system where i
 I want to share 3 concepts that help me.
 <br>
 <ul>
-    <li>The first one is from positive psychology, here is the image. Basically, this is like a reminder and you have to keep the balance you choose between these 4 components of life. You give them a priority and then keep them. </li>
+    <li>The first one is from positive psychology, here is the image. 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+Basically, this is like a reminder and you have to keep the balance you choose between these 4 components of life. You give them a priority and then keep them. </li>
     <li>Next is the Emotional ladder. Here is the image. Here you need to recognize at what emotional level you are right now, and with questioning yourself go up and up on this ladder until you can start to feel the emotion that is appropriate to the current situation.</li>
     <li>And the last one is the Lean startup approach, here is the image. Here you are acting iteratively and delivering results without judging yourself. This is the same Constant ripening approach.</li>
 </ul>
