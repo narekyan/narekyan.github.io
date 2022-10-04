@@ -6,7 +6,7 @@ description: my experience of practical approaches
 tags: about life
 categories: sample-posts
 ---
-We all live this life first time and we have only basic concepts in our gens how life is look like. We need to go through life, give it a shot and see what we can achieve or feel. Or we can read books and use other people's experiences. Seems easy, right, but in practice, it's not.
+We alll live this life first time and we have only basic concepts in our gens how life is look like. We need to go through life, give it a shot and see what we can achieve or feel. Or we can read books and use other people's experiences. Seems easy, right, but in practice, it's not.
 Why? Because we are hoomans. Period.
 <br>
 I want to share my opinion and experience about why it is not easy to live this life and share with you some practical approaches.
