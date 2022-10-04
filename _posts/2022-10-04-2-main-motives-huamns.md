@@ -17,7 +17,7 @@ Because life is very dynamic nowadays, our brain is always under constant overst
 <li>If someone is too focused on the first motivation, they can suddenly become a narcissist, they will begin to give almost nothing to others, which means they will lose their humanity. This means that these people will begin to love only themselves, and also in others they will begin to love and seek only love directed at them.</li>
 <li>If someone will be too focused on the second motivation they for sure will become anxious. They will start to give too much and lose themself, and in the end, again lose humanity. This means these individuals will start to forget about them and become useless and pointless.</li>
 </ul>
-So we have to give ourselves to others without losing ourselves. We have to share equality and support ,and as a result, we will end up in equilibriums, in balance.
+So we have to give ourselves to others without losing ourselves. We have to share equality and support ,and as a result, we will end up in equilibriums, in balance. We must take care of ourselves first.
 <br>
 Smaller things that people need to start to appreciate are self-expression, which can a little bit satisfy the motivation to feel special, and family, friends which will satisfy the motivation to be part of something larger.
 We need to make others feel important and that way we should feel important. We must be in what I call evolutionary attractive communication. Also in the workplace, we have to appreciate the work of employees and coworkers. We have to respect others and create things together. You can find some approaches <a href="https://narekyan.github.io/blog/2022/how-to-live-this-life/">here</a> about how to live life constructively.
