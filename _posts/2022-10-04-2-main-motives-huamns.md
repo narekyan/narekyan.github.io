@@ -10,7 +10,7 @@ From the book The Denial of Death written by Ernest Becker, we can take out that
 <br><br>
 2 main motives are the following : <b>Feeling special and Belonging to something larger</b>. Moving forward I can say we have to balance these motives.
 <br>
-Yes, dear ladies and gentlemen, we all know that we are mortal, and at some point we will not be, but life will continue to evolve. Since people cannot overcome this fact, we begin to think that, okay, even if we are going to be erased from life, then at least let's live an important and vital life)). This thing in fact can make life suffer less painful. People do many things to feel important, you name it. People even go to jobs and make money)) , they are use social networks , buy things and also eat too much.
+Yes, dear ladies and gentlemen, we all know that we are mortal, and at some point we will not be, but life will continue to evolve. Since people cannot overcome this fact, we begin to think that, okay, even if we are going to be erased from life, then at least let's live an important and vital life)). <i>This thing in fact can make life suffer less painful.</i> People do many things to feel important, you name it. People even go to jobs and make money)) , they are use social networks , buy things and also eat too much.
 <br><br>
 Because life is very dynamic nowadays, our brain is always under constant overstimulation. And at some point, our behavior can become pathological.  
 <ul>
