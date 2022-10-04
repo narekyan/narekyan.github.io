@@ -20,7 +20,7 @@ Because life is very dynamic nowadays, our brain is always under constant overst
 So we have to give ourselves to others without losing ourselves. We have to share equality and support ,and as a result, we will end up in equilibriums, in balance.
 <br>
 Smaller things that people need to start to appreciate are self-expression, which can a little bit satisfy the motivation to feel special, and family, friends which will satisfy the motivation to be part of something larger.
-We need to make others feel important and that way we should feel important. We have to respect others and create things together. You can find some approaches <a href="https://narekyan.github.io/blog/2022/how-to-live-this-life/">here</a> about how to live life constructively.
+We need to make others feel important and that way we should feel important. Also in the workplace, we have to appreciate the work of employees and coworkers. We have to respect others and create things together. You can find some approaches <a href="https://narekyan.github.io/blog/2022/how-to-live-this-life/">here</a> about how to live life constructively.
 <br><br>
 Well, there is also one more question: why we need to be human and respect others at all? We just need to always remember that we are stronger together and this is not a romantic statement.
 <br>
