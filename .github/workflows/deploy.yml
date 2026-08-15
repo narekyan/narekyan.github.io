@@ -20,6 +20,10 @@ jobs:
       uses: actions/checkout@v4
       with:
         fetch-depth: 0
+    - name: Install ImageMagick
+      # jekyll-imagemagick shells out to `convert` to build the .webp variants
+      # every <picture> element references; the runner image no longer ships it.
+      run: sudo apt-get update -qq && sudo apt-get install -y -qq imagemagick
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
